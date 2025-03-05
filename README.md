@@ -15,7 +15,8 @@ oscilloscope-app
 │   ├── gui
 │   │   └── __init__.py        # GUI class for managing layout and user interactions
 │   ├── communication
-│   │   └── __init__.py        # Handles serial communication with the STM32F401RE
+│   │   ├── __init__.py        # Handles serial communication with the STM32F401RE
+│   │   └── serial_communication.py  # Handles serial communication with the STM32F401RE
 │   └── utils
 │       └── __init__.py        # Utility functions for data processing and formatting
 ├── requirements.txt            # Lists project dependencies
