@@ -2,6 +2,10 @@
 
 This project is an oscilloscope application that communicates with an STM32F401RE microcontroller using serial communication. The application provides a graphical user interface (GUI) for visualizing waveform data received from the microcontroller.
 
+## Authors
+
+- [@Kurisari](https://www.github.com/kurisari)
+
 ## Project Structure
 
 ``` None
