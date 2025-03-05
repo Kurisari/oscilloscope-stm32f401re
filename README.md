@@ -4,7 +4,7 @@ This project is an oscilloscope application that communicates with an STM32F401R
 
 ## Project Structure
 
-```
+``` None
 oscilloscope-app
 ├── src
 │   ├── main.py                # Entry point of the application
@@ -24,7 +24,7 @@ oscilloscope-app
 2. Navigate to the project directory.
 3. Install the required dependencies using pip:
 
-   ```
+   ``` terminal
    pip install -r requirements.txt
    ```
 
@@ -33,7 +33,7 @@ oscilloscope-app
 1. Connect the STM32F401RE microcontroller to your computer via USB.
 2. Open the application by running the following command:
 
-   ```
+   ``` terminal
    python src/main.py
    ```
 
