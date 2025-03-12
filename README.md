@@ -19,6 +19,7 @@ oscilloscope-app
 │   │   └── serial_communication.py  # Handles serial communication with the STM32F401RE
 │   └── utils
 │       └── __init__.py        # Utility functions for data processing and formatting
+├── M2_08_Osciloscopio         # Main project of STM32CubeIDE
 ├── requirements.txt            # Lists project dependencies
 └── README.md                   # Documentation for the project
 ```
